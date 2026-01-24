@@ -1,6 +1,14 @@
 # aniu-ech-apk
-
+！！！
+###
 阿牛的ech节点专用软件，ech节点一天之后就会过期，所以每天都需要更新。
+###
+！！！
+！！！
+###
+ [ECH御用软件下载地址](https://github.com/xmm-zyzz/aniu-ech-apk/releases/download/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/app-universal-release.apk)
+###
+！！！
 ！！！
 ###
 1.下载后安装是这个软件图标
