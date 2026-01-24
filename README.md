@@ -57,11 +57,19 @@
 ！！！
 ！！！
 ###
-<img width="524" height="1123" alt="image" src="https://github.com/user-attachments/assets/62162b58-85ad-4fcc-9cdc-1003d37cfef8" />
+<img width="520" height="1126" alt="image" src="https://github.com/user-attachments/assets/eeee3c9e-95fa-46c6-95dd-6cfeb5325e28" />
+
 8.在弹出的主界面，点击连接即可。
 ###
 ！！！
+！！！
+###
+<img width="519" height="1125" alt="image" src="https://github.com/user-attachments/assets/2b8cd6b2-e76c-4c75-a1be-2bb30231eefc" />
 
+
+8.之后就可以愉快的科学上网了。
+###
+！！！
 
 
 
