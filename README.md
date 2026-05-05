@@ -1,7 +1,7 @@
 # aniu-ech-apk
 ### 阿牛的ech节点与正常节点可以使用的clash版本为clash Meta
 ###Clash Meta软件下载地址为
-[点击进行ECH御用软件下载](https://github.com/MetaCubeX/ClashMetaForAndroid)
+[点击进行Clash Meta软件下载](https://github.com/MetaCubeX/ClashMetaForAndroid)
 ### 阿牛的ech节点专用软件
 **ech节点一天之后就会过期，所以每天都需要更新节点信息。**
 ###
