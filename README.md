@@ -22,6 +22,9 @@
 ---
 
 ### 使用步骤
+Clash Meta版本就不做使用教程了，网上一搜一大把。
+下面只做专用软件的使用教程
+
 1. **下载安装后看到的软件图标**
 
    <img width="355" height="423" alt="04b0fea1d73de2cd8d8859aeadd64edc" src="https://github.com/user-attachments/assets/37e5c13c-d185-48b4-ac62-b83301899ed7" />
