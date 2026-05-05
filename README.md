@@ -3,7 +3,8 @@
 
 
 ###Clash Meta软件下载地址
-[点击进行Clash Meta软件下载](https://github.com/MetaCubeX/ClashMetaForAndroid)
+
+[点击进行Clash Meta软件下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
 
 ### 阿牛的ech节点专用软件
